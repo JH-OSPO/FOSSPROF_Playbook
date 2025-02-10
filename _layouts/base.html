@@ -13,7 +13,9 @@
   </style>
 </head>
 <body>
-  {% include header.html %}
+  {% if page.layout == 'post' %}
+    {% include header.html %}
+  {% endif %}
   <main>
     {{ content }}
   </main>
