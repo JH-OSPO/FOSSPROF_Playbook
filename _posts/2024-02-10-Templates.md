@@ -3,8 +3,8 @@ layout: post
 title: "Templates"
 order: 5
 ---
+OSPO Staff created a number of templates for us with FOSSProF, available below as editable DOCs. Have a template or an update you'd like to share? [Submit a pull request on GitHub](https://github.com/JH-OSPO/FOSSPROF_Playbook)!
 
-Available templates:
 * [FOSSProF Award Letter](../templates/FOSSProF Award Letter - Template.docx)
 * [FOSSProF Award Terms and Conditions](../templates/FOSSProF Award Terms and Conditions - Template.docx)
 * [FOSSProF Awardee Feedback Questions](../templates/FOSSProF Awardee Feedback Questions - Template.docx)
