@@ -3,6 +3,7 @@ layout: post
 title: "Program Design"
 date: 2024-02-10
 ---
+<a id="top"></a>
 
 * [Phase 1 \- Planning](#section1)
 * [Phase 2 \- Outreach and Review](#section2)
@@ -10,7 +11,7 @@ date: 2024-02-10
 * [Phase 4 \- Evaluation](#section4)
 * [Suggested Timeline](#section5)
 
-#### <a id="section1">**Phase 1 \- Planning**</a>
+#### <a id="section1">[**Phase 1 \- Planning**](#top)</a>
 
 The planning phase lays the groundwork for a successful project. During this phase, OSPO staff should establish the focus and goals of the program, determine success metrics, create a communications and outreach plan, and ensure all stakeholders are informed and prepared.
 
@@ -23,7 +24,7 @@ The planning phase lays the groundwork for a successful project. During this pha
 | Outreach and communications | Identify the target audience for outreach. Contacts can be gathered from: Individuals, departments, lists, groups Previous grantees Data mining shared research platforms such as code repositories and research information datasets University colleagues in the library (subject experts), technology transfer, and research administration List or catalog of campus open source projects Share schedule and plan with senior leadership, finance, and external affairs (grants) Identify and invite reviewers Mix of division colleagues, subject matter experts, and/or previous grantees Provide enough detail about time commitment and timeline so invitees can make an informed decision |
 | Documentation *Write or review existing* | Create or update the following program documentation: **Funding announcement** \- web, email, shareable PDF **Proposal guidelines** Application webform **Review invitation and rubric** Review webform **Award letter**, **Terms and conditions**, financial information **Final report template**  Note: in this and the following phases, documents for which a template is provided are **bolded** and highlighted in blue. |
 
-#### <a id="section2">**Phase 2 \- Outreach and Review**</a>
+#### <a id="section2">[**Phase 2 \- Outreach and Review**](#top)</a>
 
 The Outreach and Review phase includes all activities from the initial funding announcement to the final award decisions. The core goals of this phase are to effectively promote the opportunity, facilitate a fair and thorough review process, and select projects that align with the program’s goals.
 
@@ -38,7 +39,7 @@ The Outreach and Review phase includes all activities from the initial funding a
 | Outreach and communications | Share list of funded projects with: OSPO website, Broader organizational unit website/blog Social media Suggest for University PR, newsletters, etc. OSPO Advisors Organizational unit announcement lists |
 | Financial planning | Finance to create billing codes for all projects Share financial information with projects: Approved budget with line items Cost center / billing code Process for requesting budget reallocations If projects are student-led, confirm ability to hire, submit reimbursements, etc. |
 
-#### <a id="section3">**Phase 3 \- Execution**</a>
+#### <a id="section3">[**Phase 3 \- Execution**](#top)</a>
 
 The Execution phase focuses on managing project grantees throughout their project lifecycle, including funding disbursements, tracking project progress, documenting project outcomes and impact, and holding a summative event to showcase awardees’ work.
 
@@ -50,7 +51,7 @@ The Execution phase focuses on managing project grantees throughout their projec
 | Financial planning | Review and approve (or not) budget reallocation requests Review request Confirm approval with Program Director Respond to PI Update budget worksheet End of project budget reminders Reminder 60 and 30 days out to submit final budget requests Collect final budget reports |
 | Summative Event | Determine format of event \- in person, online, or hybrid? Schedule event Develop event program, including a mix of: Presentations from grantees Talks or conversations with senior leadership, open-source advocates, and/or invited outside guests Ample time for community building, networking, and information conversations among attendees Develop and execute outreach campaign for event **Invitation template** Manage event logistics: Identify and book space or online platform If in person, identify and book catering If in person, identify and book technical support Determine collateral needs, e.g. printed agendas, information about funded projects, or promotional materials for OSPO services Hold event |
 
-#### <a id="section4">**Phase 4 \- Evaluation**</a>
+#### <a id="section4">[**Phase 4 \- Evaluation**](#top)</a>
 
 The purpose of the evaluation phase is to assess the overall success of the program against the metrics established in Phase 1\. During this phase, the program team should gather feedback from program participants, analyze program impact, and document lessons learned.
 
@@ -60,7 +61,7 @@ The purpose of the evaluation phase is to assess the overall success of the prog
 | Reporting | Receive and review final reports from awardees Create final report for FOSSProF iteration (internal or external if outside funding)	 |
 | Outreach and Communications | Share final results of project with: OSPO website, Broader organizational unit website/blog Social media Suggest for University PR, newsletters, etc. OSPO Advisors Organizational unit announcement lists |
 
-#### <a id="section5">**Suggested Timeline**</a>
+#### <a id="section5">[**Suggested Timeline**](#top)</a>
 
 From initial planning through final evaluation, the full FOSSProF cycle fits well into a 24 month period, but can be condensed if needed. To ease student hiring, it is recommended to align the timeline with the academic calendar. It is important to allow sufficient time for each phase; a rushed process may not allow projects time to complete their goals and objectives or recover from unexpected roadblocks.
 
