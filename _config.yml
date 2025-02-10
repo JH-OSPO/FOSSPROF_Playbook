@@ -3,3 +3,5 @@ theme: minima
 title: JHU OSPO FOSSProF Playbook
 baseurl: "/FOSSPROF_Playbook"
 url: "https://jh-ospo.github.io/FOSSPROF_Playbook/"
+sass:
+ sass_dir: _sass
