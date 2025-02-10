@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4 - Lessons Learned"
+title: "Lessons Learned"
 order: 4
 ---
 
