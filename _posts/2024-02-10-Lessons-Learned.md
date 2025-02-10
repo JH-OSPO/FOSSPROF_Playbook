@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lessons Learned"
+title: "Free and Open Source Project Fund Lessons Learned"
 order: 4
 ---
 
