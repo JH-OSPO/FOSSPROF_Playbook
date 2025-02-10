@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1 - Free and Open Source Project Fund Introduction"
+title: "Free and Open Source Project Fund Introduction"
 order: 1
 ---
 
