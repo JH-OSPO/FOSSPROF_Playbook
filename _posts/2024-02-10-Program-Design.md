@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 - Program Design"
+title: "Program Design"
 order: 3
 ---
 <a id="top"></a>
