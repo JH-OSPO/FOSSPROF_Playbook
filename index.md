@@ -12,8 +12,7 @@ This playbook is provided as a resource for JHU OSPO staff as well as staff at a
 
 ## Pages
 
-{% if site.posts.size > 0 %}
-{% for post in site.posts %}
+{% assign sorted_posts = site.posts | sort: 'title' %}
+{% for post in sorted_posts %}
 * [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
-{% endif %}
