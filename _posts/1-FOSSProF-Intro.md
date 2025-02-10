@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Free and Open Source Project Fund Introduction"
+title: "1 - Free and Open Source Project Fund Introduction"
 date: 2024-02-10
 ---
 
