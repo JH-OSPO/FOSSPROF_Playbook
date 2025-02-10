@@ -2,8 +2,12 @@ markdown: kramdown
 theme: minima
 title: JHU OSPO FOSSProF Playbook
 baseurl: "/FOSSPROF_Playbook"
-url: "https://jh-ospo.github.io/FOSSPROF_Playbook/"
+url: "https://jh-ospo.github.io"
 sass:
- sass_dir: _sass
+  sass_dir: _sass
 permalink: /:title/
+collections:
+  posts:
+    output: true
+    permalink: /:title/
 future: true
