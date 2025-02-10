@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 - Templates"
+title: "Templates"
 order: 5
 ---
 
