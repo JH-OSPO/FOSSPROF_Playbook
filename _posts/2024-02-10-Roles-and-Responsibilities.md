@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2 - Roles and Responsibilities"
+title: "Roles and Responsibilities"
 order: 2
 ---
 
