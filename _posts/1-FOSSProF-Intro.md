@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "1 - Free and Open Source Project Fund Introduction"
-date: 2024-02-10
+order: 1
 ---
 
 The Open Source Programs Office \(OSPO\) is a center of competency for open source at Johns Hopkins University \(JHU\), committed to fostering an engaged open source community among faculty, researchers, staff, and students in the JHU ecosystem. The OSPO provides support, resources, tools, consulting, and training for those engaged in creating, advancing, and sustaining open source initiatives.
