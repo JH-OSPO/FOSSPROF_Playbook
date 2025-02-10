@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Roles and Responsibilities"
+title: "Free and Open Source Project Fund Roles and Responsibilities"
 order: 2
 ---
 
