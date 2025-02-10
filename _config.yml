@@ -6,3 +6,4 @@ url: "https://jh-ospo.github.io/FOSSPROF_Playbook/"
 sass:
  sass_dir: _sass
 permalink: /:title/
+future: true
