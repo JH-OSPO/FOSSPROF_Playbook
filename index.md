@@ -9,7 +9,7 @@ This playbook is provided as a resource for JHU OSPO staff as well as staff at a
 ## Contribute
 Want to improve this playbook? [Submit a pull request on GitHub](https://github.com/JH-OSPO/FOSSPROF_Playbook)!
 
-## Pages
+## Sections
 {% assign sorted_posts = site.posts | sort: 'order' %}
 {% for post in sorted_posts %}
 * [{{ post.title }}]({{ post.url | relative_url }})
