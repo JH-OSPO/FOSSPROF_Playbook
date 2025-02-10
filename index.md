@@ -1,6 +1,5 @@
 ---
 layout: home
-title: JHU OSPO FOSSProF Playbook
 ---
 
 ![JHU OSPO Logo](RGB Sheriden Libraries-OSPO Unit Lockup_horizontal.blue.png)
