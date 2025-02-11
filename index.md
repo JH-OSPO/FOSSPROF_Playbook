@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-with-sidebar
 ---
 ![JHU OSPO Logo](RGB Sheriden Libraries-OSPO Unit Lockup_horizontal.blue.png)
 # Free and Open Source Project Fund Playbook
@@ -7,10 +7,4 @@ The Free and Open Source Project Fund (FOSSProF) is a grant program run by the J
 This playbook is provided as a resource for JHU OSPO staff as well as staff at academic OSPOs or similar offices who would like to run a grant program similar to FOSSProF in support of campus open-source software development. 
 
 ## Contribute
-Want to improve this playbook? [Submit a pull request on GitHub](https://github.com/JH-OSPO/FOSSPROF_Playbook)!
-
-## Sections
-{% assign sorted_posts = site.posts | sort: 'order' %}
-{% for post in sorted_posts %}
-* [{{ post.title }}]({{ post.url | relative_url }})
-{% endfor %}
+Found a mistake or want to improve this playbook? [Submit a pull request on GitHub](https://github.com/JH-OSPO/FOSSPROF_Playbook)!
