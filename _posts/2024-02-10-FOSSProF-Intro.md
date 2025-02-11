@@ -1,6 +1,6 @@
 ---
 layout: post-with-sidebar
-title: "Free and Open Source Project Fund Introduction"
+title: "Introduction"
 order: 1
 ---
 
