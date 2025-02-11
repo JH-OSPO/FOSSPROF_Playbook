@@ -1,6 +1,6 @@
 ---
 layout: post-with-sidebar
-title: "Free and Open Source Project Fund Program Design"
+title: "Program Design"
 order: 3
 ---
 <a id="top"></a>
