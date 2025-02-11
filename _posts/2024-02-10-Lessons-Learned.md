@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-with-sidebar
 title: "Free and Open Source Project Fund Lessons Learned"
 order: 4
 ---
