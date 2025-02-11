@@ -32,3 +32,11 @@
 .sidebar nav ul li a:hover {
   color: #0066cc;
 }
+
+/* New logo styling */
+.content-wrapper img {
+  max-width: 300px;  /* Adjust this value as needed */
+  height: auto;
+  display: block;
+  margin: 0 auto 20px;
+}
