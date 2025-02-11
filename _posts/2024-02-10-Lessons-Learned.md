@@ -1,6 +1,6 @@
 ---
 layout: post-with-sidebar
-title: "Free and Open Source Project Fund Lessons Learned"
+title: "Lessons Learned"
 order: 4
 ---
 
