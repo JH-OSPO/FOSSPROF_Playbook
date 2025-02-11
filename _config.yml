@@ -1,13 +1,40 @@
+# Site settings
 markdown: kramdown
 theme: minima
 title: JHU OSPO FOSSProF Playbook
 baseurl: "/FOSSPROF_Playbook"
 url: "https://jh-ospo.github.io"
+
+# Build settings
 sass:
   sass_dir: _sass
+  style: compressed
+
 permalink: /:title/
+
+# Collections
 collections:
   posts:
     output: true
     permalink: /:title/
+
+# Jekyll plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Additional configurations
 future: true
+
+# Customize the header pages (optional)
+header_pages:
+  - index.md
+
+# Optional: If you want to define a specific page order (uncomment and modify as needed)
+# page_order:
+#   - /introduction/
+#   - /planning/
+#   - /development/
+#   - /community/
+#   - /sustainability/
+#   - /conclusion/
