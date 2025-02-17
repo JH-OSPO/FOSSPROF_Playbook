@@ -79,3 +79,18 @@ table tr:hover {
 .site-footer {
   display: none;
 }
+/* Remove bold styling from tables with no-style class */
+.no-style th {
+  font-weight: normal !important;
+  background-color: transparent !important;
+}
+
+.no-style {
+  border-collapse: collapse;
+}
+
+.no-style th,
+.no-style td {
+  border: 1px solid #ddd;
+  padding: 0.5em;
+}
