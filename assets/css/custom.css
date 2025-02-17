@@ -75,3 +75,7 @@ table tr:nth-child(even) {
 table tr:hover {
   background-color: #f5f5f5;
 }
+/* Remove footer */
+.site-footer {
+  display: none;
+}
