@@ -1,7 +1,7 @@
 ---
 layout: post-with-sidebar
 title: "Program Design"
-order: 3
+order: 2
 ---
 <a id="top"></a>
 
