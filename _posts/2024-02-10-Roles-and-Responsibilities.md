@@ -1,7 +1,7 @@
 ---
 layout: post-with-sidebar
 title: "Roles and Responsibilities"
-order: 2
+order: 1
 ---
 
 Successful execution of a Free and Open Source Project Fund requires clear definition of roles and responsibilities among staff members. While organizational structure will vary across institutions, several key functions need to be covered throughout the program lifecycle, including OSPO management, finance and/or grants administration, institutional leadership, and communications/outreach.
