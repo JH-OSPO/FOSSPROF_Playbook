@@ -1,7 +1,7 @@
 ---
 layout: post-with-sidebar
 title: "Templates"
-order: 5
+order: 4
 ---
 OSPO Staff created a number of templates for us with FOSSProF, available below as editable DOCs. Have a template or an update you'd like to share? [Submit a pull request on GitHub](https://github.com/JH-OSPO/FOSSPROF_Playbook)!
 
