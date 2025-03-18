@@ -1,7 +1,7 @@
 ---
 layout: post-with-sidebar
 title: "Lessons Learned"
-order: 4
+order: 3
 ---
 
 ### **Lessons Learned**
