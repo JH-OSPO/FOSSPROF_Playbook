@@ -30,7 +30,47 @@
   color: #333;
   margin-bottom: 20px;
 }
+.activity-section {
+  display: flex;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #eee;
+}
 
+.activity-title {
+  flex: 0 0 30%;
+  padding-right: 1rem;
+}
+
+.activity-title h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+  color: #2c3e50;
+}
+
+.activity-description {
+  flex: 0 0 70%;
+}
+
+.activity-description p {
+  margin-top: 0;
+}
+
+/* Make it responsive */
+@media (max-width: 768px) {
+  .activity-section {
+    flex-direction: column;
+  }
+  
+  .activity-title, .activity-description {
+    flex: 0 0 100%;
+    padding-right: 0;
+  }
+  
+  .activity-title {
+    margin-bottom: 0.5rem;
+  }
+}
 .home-button:hover {
   background-color: #e5e5e5;
 }
